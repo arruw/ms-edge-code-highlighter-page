@@ -1,0 +1,21 @@
+{
+  "name": "Code Highlighter Page",
+  "homepage": "https://github.com/matjazmav/ms-edge-code-highlighter-page",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Matjaž Mav"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
